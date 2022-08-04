@@ -1,4 +1,4 @@
-# Envrionment
+# Environment
 
 python 3.6.13 \
 matplotlib 3.3.4 \
